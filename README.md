@@ -1,2 +1,2 @@
 # Bayesian-Statistics
-This is just a final requirement in our subject, Bayesian as Third Year Statistics Students
+This is a final requirement in for our subject, Bayesian as Third Year Statistics Students
